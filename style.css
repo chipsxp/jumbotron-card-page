@@ -1,0 +1,76 @@
+body {
+    background-color: #9f9e9e;
+}
+
+
+#siteHeader {
+    background-image: url("nft-blockchain.jpg");
+    height: 18em;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.siteTitle {
+    font-size: 3em;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: left;
+    margin: 0px 0px 0px 0px;
+    padding: 35px 35px 0px 35px;
+
+}
+
+main {
+    background-color: #9dd3ff;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.card{
+    background-color: #c2e3ff;
+    margin-top: 5px;
+    padding-top: 10px;
+    border-color: brown;
+    border-width: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+}
+
+.card-title {
+    font-size: 1.5em;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.card-text {
+    font-size: 1.2em;
+    font-weight: 500;
+    text-align: left;
+}
+
+#siteFooter {
+    background-color: #9f9e9e;
+    margin: 20px;
+    padding: 10px;
+    border-style: groove;
+    border-width: 10px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+#gridLabel {
+    margin-right: 2rem;
+    padding-right: 6rem;
+}
+
+h4{
+    margin: 10px;
+    padding-bottom: 20px;
+}
